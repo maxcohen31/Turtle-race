@@ -1,2 +1,2 @@
 # Turtle-race
-Turtle game race made using the turtle library
+Turtle game race made using the 🐢 library 
